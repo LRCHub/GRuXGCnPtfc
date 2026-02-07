@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "クレセント・レム",
+  "base_artist": "酔シグレ",
+  "createdAt": "2026-02-07T07:24:58.177514Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クレセント・レム",
+      "artist": "酔シグレ",
+      "has_synced": false,
+      "path": "select/pl_01_クレセント・レム_酔シグレ.txt"
+    }
+  ]
+}
